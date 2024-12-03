@@ -1,6 +1,5 @@
 # Customer_Segment_with_RFM-Analysis
 ### Customer Segment with RFM Analysis using K-means
-<<<<<<< HEAD
 
 ##  Chi tiết Source Code
 <table style="width:100%">
@@ -22,8 +21,6 @@
 </tr>
 </table>
 
-=======
->>>>>>> 65195e9acff745917274b37281ce55b7dee92c91
 ##  Chi tiết [Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 <table style="width:100%">
 <tr>
