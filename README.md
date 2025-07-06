@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to my project: Customer Segment with RFM Analysis using K-means👋</h1>
-<h5 align="center"> Xem App: <a href="customers-churn-prediction-app.streamlit.app">customers-churn-prediction-app.streamlit.app</a></h5>
+<h5 align="center"> Xem App: <a href="https://buisikhoa.notion.site/Customer-Segmentation-with-RFM-using-Cluster-Analysis-f5cabc1e11d84ab7abb28a45d84f5aa7">ở đây</a></h5>
 
 ### Project Customer Segment with RFM Analysis
 Dự án này sẽ chỉ cho bạn cách phân nhóm khách hàng theo phân khúc dựa trên hành vi của họ bằng cách sử dụng K-Means
