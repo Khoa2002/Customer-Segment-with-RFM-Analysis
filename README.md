@@ -1,7 +1,10 @@
-# Customer_Segment_with_RFM-Analysis
-### Customer Segment with RFM Analysis using K-means
+<h1 align="center"> Welcome to my project: Customer Segment with RFM Analysis using K-means👋</h1>
+<h5 align="center"> Xem App: <a href="customers-churn-prediction-app.streamlit.app">customers-churn-prediction-app.streamlit.app</a></h5>
 
-##  Chi tiết Source Code
+### Project Customer Segment with RFM Analysis
+Dự án này sẽ chỉ cho bạn cách phân nhóm khách hàng theo phân khúc dựa trên hành vi của họ bằng cách sử dụng K-Means
+
+###  Chi tiết Source Code
 <table style="width:100%">
 <tr>
     <th> <p align="center">
@@ -21,7 +24,7 @@
 </tr>
 </table>
 
-##  Chi tiết [Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+###  Chi tiết [Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 <table style="width:100%">
 <tr>
     <th> <p align="center">
